@@ -46,7 +46,7 @@ function App() {
     <p>
       A full stack web app built with MERN stack. Features include JWT auth,
       timer based exam, auto submit and result generation.
-    </p><a href="https://github.com/siya-goyal123/OnlineExamSystem" target="_blank">View on GitHub</a>
+    </p><a href="https://github.com/siya-goyal123/OnlineExamSystem" target="_blank" rel="noopener noreferrer">View on GitHub</a>
    </div>
 
    <div className="card">
@@ -54,7 +54,7 @@ function App() {
     <p>
       A web application to manage restaurant orders, menu and billing system.
       Designed to improve efficiency and user experience.
-    </p><a href="https://github.com/siya-goyal123/restaurant-project" target="_blank">View Project</a>
+    </p><a href="https://github.com/siya-goyal123/restaurant-project" target="_blank" rel="noopener noreferrer">View Project</a>
    </div>
 
    </div>
